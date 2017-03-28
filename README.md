@@ -17,7 +17,7 @@ Analysis of sensor data
 ------------------
 * All Hits
 ------------------
-![alt text](https://github.com/bchow1/Sensor-Analysis/blob/master/Examples/FFT07/FFT07_fcsteps.png "FFT07")
+![alt text](https://github.com/bchow1/Sensor-Analysis/blob/master/Examples/FFT07/FFT07_fcstep.png "FFT07")
 
 ------------------
 * 
