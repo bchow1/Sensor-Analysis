@@ -38,7 +38,7 @@ Analysis of sensor data
 ![alt text](https://github.com/bchow1/Sensor-Analysis/blob/master/Examples/ETEX/ETEX_fch.png "ETEX KD Function")
 
 * Identification and removal of outliers
-![alt text](https://github.com/bchow1/Sensor-Analysis/blob/master/Examples/ETEX/ETEX_outlier.png "ETEX Outliers")
+![alt text](https://github.com/bchow1/Sensor-Analysis/blob/master/Examples/ETEX/ETEX_outliers.png "ETEX Outliers")
 
 ------------------
 * Selection and recalculation of Kernel density function
